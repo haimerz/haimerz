@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
 </div>
 
-## Тестирование Web
+### Тестирование Web
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
@@ -23,13 +23,13 @@
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/charles-proxy-icon.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
-## Databases
+### Databases
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
 </div>
 
-## Логи и мониторинги
+### Логи и мониторинги
 <div>
   <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
