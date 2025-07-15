@@ -24,18 +24,21 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-### 🏆 Профильная статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haimerz&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&theme=tokyonight&card_width=450)
-
-### 🌐 Языки программирования
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight&card_width=450)
-
-### 📈 Граф активности
-![](https://github-readme-activity-graph.vercel.app/graph?username=haimerz&theme=tokyo-night&height=250)
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=haimerz&hide_rank=true&theme=tokyonight">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=haimerz&theme=tokyo-night&height=250">
+    </td>
+  </tr>
+</table>
 
 ## 📜 Образование
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">]
