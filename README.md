@@ -59,8 +59,8 @@
 </div>
 
 ## 📜 Образование
-<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">
-<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">](https://github.com/haimerz/haimerz/blob/main/certificate.png)
+[<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">](https://github.com/haimerz/haimerz/blob/main/certificate_eng.png)
 
 
 ## 🚀 Мои проекты
