@@ -27,9 +27,9 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=tokyo-night&username=haimerz)
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
-## 📜 Сертификаты и обучение
-<img width="2400" height="3392" alt="0905aac9a42" src="https://github.com/user-attachments/assets/ec6fd2b3-42d8-4d53-8d0c-33761bc7a6c0" />
-<img width="2400" height="3392" alt="01a28d177c0" src="https://github.com/user-attachments/assets/aec26bdd-728d-4972-b879-895dd6771e03" />
+## 📜 Образование
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">]
+[<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">]
 
 
 ## 🚀 Мои проекты
