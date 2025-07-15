@@ -23,7 +23,7 @@
 ![Requests](https://img.shields.io/badge/-Requests-417090?logo=python)
 
 ## 📊 GitHub Analytics
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=haimerz) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=haimerz&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight) |
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
 ## 📜 Сертификаты и обучение
