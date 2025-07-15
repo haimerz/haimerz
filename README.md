@@ -26,16 +26,16 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=haimerz&hide_rank=true&theme=tokyonight">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=haimerz&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" width="100%">
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%">
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=haimerz&theme=tokyo-night&height=250">
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=haimerz&theme=tokyo-night&height=250&hide_border=true" width="100%">
     </td>
   </tr>
 </table>
