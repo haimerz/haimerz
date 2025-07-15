@@ -3,7 +3,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/haimerz?style=social)](https://github.com/haimerz)
 
-<img align="right" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVuZzU3OGczcmx0Nms3YmZueXVmbnNyeGV0cmI4emNieGh4MDhudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFuMnF2oLjUfC/giphy.gif" width="200">
 
 ## 🛠 Технологический стек
 ### API Testing
