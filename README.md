@@ -24,6 +24,7 @@
 
 ## 📊 GitHub Analytics
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=haimerz&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight) |
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=tokyonight&username=haimerz)
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
 ## 📜 Сертификаты и обучение
