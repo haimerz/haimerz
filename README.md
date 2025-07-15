@@ -1,7 +1,7 @@
 ## Всем привет! 👋
 # Valeria Uspenskaya | Quality Assurance Engineer
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl4YjV2dWJ2d2R4Z2R6eWY1ZGNiY3VtYzB6dGJ6Y2x0bGZ6eWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO13KTkzPwTykp2/giphy.gif" width="150">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ3eHV1d3E4OTM0NXV2dXc4Znp3OG56eHc4b3B4YmhvbnZ2ejg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4TnHlUBm55QMzBLvq6/giphy.gif" width="150">
 
 ## 🔧 Технологический стек
 
