@@ -24,21 +24,15 @@
 
 ## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=haimerz&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=haimerz&theme=tokyo-night&height=250&hide_border=true" width="100%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haimerz&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&theme=tokyonight&card_width=450)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight&card_width=450)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=haimerz&theme=tokyo-night&height=250)
+
+</div>
 
 ## 📜 Образование
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">]
