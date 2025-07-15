@@ -1,5 +1,5 @@
-## Всем привет! 👋
-# Valeria Uspenskaya | Quality Assurance Engineer
+## Добро пожаловать! 👋
+#  Меня зовут Лера, и я QA Engineer:)
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ3eHV1d3E4OTM0NXV2dXc4Znp3OG56eHc4b3B4YmhvbnZ2ejg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4TnHlUBm55QMzBLvq6/giphy.gif" width="155">
 
