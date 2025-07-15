@@ -5,6 +5,8 @@
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ3eHV1d3E4OTM0NXV2dXc4Znp3OG56eHc4b3B4YmhvbnZ2ejg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4TnHlUBm55QMzBLvq6/giphy.gif" width="250">
 
+
+
 ## 🛠 Технологический стек
 ### API Testing
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
@@ -24,7 +26,7 @@
 ![Requests](https://img.shields.io/badge/-Requests-417090?logo=python)
 
 ## 📊 GitHub Analytics
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dracula) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haimerz&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=dracula) |
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
 ## 📜 Сертификаты и обучение
