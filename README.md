@@ -63,11 +63,6 @@
 [<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">](https://github.com/haimerz/haimerz/blob/main/certificate_eng.png)
 
 
-## 🚀 Мои проекты
-1. [Автотесты на pytest + requests](https://github.com/haimerz/python_autotests) - Набор тестов на Python
-2. [Автотесты на UI](https://github.com/haimerz/Autotests_Cypress.js) - JS + Cypress
-3. [Мой сайт-визитка](https://github.com/haimerz/haimerz.github.io) - HTML + CSS
-
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram)](https://t.me/haimerzz)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:himya.mymya@gmail.com)
