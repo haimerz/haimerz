@@ -46,22 +46,11 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haimerz&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&theme=tokyonight&card_width=450)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haimerz&layout=compact&theme=tokyonight&card_width=450)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=haimerz&theme=tokyo-night&height=250)
-
-</div>
-
 ## 📜 Образование
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">](https://github.com/haimerz/haimerz/blob/main/certificate.png)
 [<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">](https://github.com/haimerz/haimerz/blob/main/certificate_eng.png)
-
+[<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">](https://github.com/haimerz/haimerz/blob/main/internship_ru.png)
+[<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">](https://github.com/haimerz/haimerz/blob/main/VU.pdf)
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram)](https://t.me/haimerzz)
