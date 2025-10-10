@@ -47,10 +47,33 @@
 </div>
 
 ## 📜 Образование
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">](https://github.com/haimerz/haimerz/blob/main/certificate.png)
-[<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">](https://github.com/haimerz/haimerz/blob/main/certificate_eng.png)
-[<img src="/internship_ru.png" width="280px" hspace="10px" alt="Стажировка">](https://github.com/haimerz/haimerz/blob/main/internship_ru.png)
-[<img src="/VU.png" width="280px" hspace="10px" alt="Рекомендательное_письмо">](https://github.com/haimerz/haimerz/blob/main/VU.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  
+  <!-- Вертикальные сертификаты -->
+  <div style="display: flex; gap: 15px; margin-bottom: 20px;">
+    <a href="https://github.com/haimerz/haimerz/blob/main/certificate.png" target="_blank">
+      <img src="/certificate.png" width="280" alt="Сертификат" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </a>
+    <a href="https://github.com/haimerz/haimerz/blob/main/certificate_eng.png" target="_blank">
+      <img src="/certificate_eng.png" width="280" alt="Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </a>
+  </div>
+
+  <!-- Горизонтальная стажировка и вертикальное письмо -->
+  <div style="display: flex; gap: 15px; align-items: flex-start;">
+    <a href="https://github.com/haimerz/haimerz/blob/main/internship_ru.png" target="_blank">
+      <img src="/internship_ru.png" width="400" alt="Стажировка" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </a>
+    <a href="https://github.com/haimerz/haimerz/blob/main/VU.png" target="_blank">
+      <img src="/VU.png" width="200" alt="Рекомендательное письмо" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </a>
+  </div>
+
+</div>
+
+<sub>↗ Нажмите на изображение для просмотра в полном размере</sub>
+
+</div>
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram)](https://t.me/haimerzz)
