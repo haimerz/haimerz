@@ -50,7 +50,7 @@
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">](https://github.com/haimerz/haimerz/blob/main/certificate.png)
 [<img src="/certificate_eng.png" width="280px" hspace="10px" alt="Certificate">](https://github.com/haimerz/haimerz/blob/main/certificate_eng.png)
 [<img src="/internship_ru.png" width="280px" hspace="10px" alt="Стажировка">](https://github.com/haimerz/haimerz/blob/main/internship_ru.png)
-[<img src="/VU.pdf" width="280px" hspace="10px" alt="Рекомендательное_письмо">](https://github.com/haimerz/haimerz/blob/main/VU.pdf)
+[<img src="/VU.png" width="280px" hspace="10px" alt="Рекомендательное_письмо">](https://github.com/haimerz/haimerz/blob/main/VU.png)
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram)](https://t.me/haimerzz)
